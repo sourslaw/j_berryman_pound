@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3240,
+    "id" : "https://sourslaw.github.io/j_berryman_pound/images/EP0002A/canvas/",
+    "label" : {
+      "none" : [ "EP0002A" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://sourslaw.github.io/j_berryman_pound/images/EP0002A/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://sourslaw.github.io/j_berryman_pound/images/EP0002A/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 102,
+              "height" : 79
+            }, {
+              "width" : 203,
+              "height" : 158
+            }, {
+              "width" : 405,
+              "height" : 316
+            }, {
+              "width" : 810,
+              "height" : 631
+            }, {
+              "width" : 1620,
+              "height" : 1261
+            }, {
+              "width" : 3240,
+              "height" : 2522
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3240,
+            "@id" : "https://sourslaw.github.io/j_berryman_pound/images/EP0002A",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2522
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3240,
+          "id" : "https://sourslaw.github.io/j_berryman_pound/images/EP0002A/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2522
+        },
+        "target" : "https://sourslaw.github.io/j_berryman_pound/images/EP0002A/canvas/"
+      } ]
+    } ],
+    "height" : 2522
+  }, {
     "width" : 2522,
     "id" : "https://sourslaw.github.io/j_berryman_pound/images/EP0001A/canvas/",
     "label" : {

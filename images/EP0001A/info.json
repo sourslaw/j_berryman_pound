@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 79,
+    "height" : 102
+  }, {
+    "width" : 158,
+    "height" : 203
+  }, {
+    "width" : 316,
+    "height" : 405
+  }, {
+    "width" : 631,
+    "height" : 810
+  }, {
+    "width" : 1261,
+    "height" : 1620
+  }, {
+    "width" : 2522,
+    "height" : 3240
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2522,
+  "@id" : "https://sourslaw.github.io/j_berryman_pound/images/EP0001A",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3240
+}

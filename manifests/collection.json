@@ -1,0 +1,13 @@
+{
+  "id" : "https://sourslaw.github.io/j_berryman_pound/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in sourslaw/j_berryman_pound project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://sourslaw.github.io/j_berryman_pound/manifests/mac-mockup-compound-pound.json",
+    "label" : "Correspondence 1947-1949"
+  } ]
+}
